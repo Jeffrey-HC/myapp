@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "A first test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Jeff",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6",
+    "pug": "^2.0.0-rc.2"
+  }
+}
